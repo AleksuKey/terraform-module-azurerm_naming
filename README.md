@@ -1,6 +1,6 @@
 # Azure Naming module
 
-![tag](https://img.shields.io/badge/tag-0.1-green) ![provider](https://img.shields.io/badge/Provider-AzureRM-blue) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![tag](https://img.shields.io/badge/tag-0.2-green) ![provider](https://img.shields.io/badge/Provider-AzureRM-blue) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
 
