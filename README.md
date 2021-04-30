@@ -39,6 +39,7 @@ Instead of doing that... Why don't you try this module to make that job easier? 
 | function | n/a |
 | ipconfig | n/a |
 | key\_vault | n/a |
+| location | Location where resources are deployed. |
 | log\_dsetting | n/a |
 | log\_insight | n/a |
 | log\_metric | n/a |

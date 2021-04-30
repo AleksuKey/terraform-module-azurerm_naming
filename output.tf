@@ -1,6 +1,6 @@
-output "tags" {
-    description = "Tags that will be applied to your resources."
-    value       = local.tags
+output "location" {
+    description = "Location where resources are deployed."
+    value       = local.location
 }
 
 output "acr" {value = local.acr}
@@ -53,3 +53,8 @@ output "vnet" {value = local.vnet}
 output "vpn" {value = local.vpn}
 output "webapp" {value = local.webapp}
 output "webjob" {value = local.webjob}
+
+output "tags" {
+    description = "Tags that will be applied to your resources."
+    value       = local.tags
+}
